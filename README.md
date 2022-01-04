@@ -1,10 +1,11 @@
 -
-        Hi! My name is Sorelle, and i am interested in Information technology. I do not currently hold a degree in information technology,
-        but i do have a Bachelors in Biology. On August 5th 2021 i completed IT Automation with Python Professional Certificate on Cousera, 
-        and i am using HackerRank to sharpen my skills in Python, Regex,Linux Shell, and SQL. I am definitely looking for other project 
-        opportunities that could help me put in practice all that i learned from My certificate. I am submitting my Express Entrie profile to
-        immigrate to Canada, and landing a job there will be ideal for me.
-        The easisest way to reach me is through my email: sorelletchie@gmail.com .
+      Competent coder in Python, Bash, and Java with adequate knowledge of Django, Git                                                                                                   GitHub version control looking for a job as an IT Support Technician and/or Specialist.
+      Proficient at the following:
+        Performing IT Support tasks including computer assembly, wireless networking, installing programs and customer service
+        Providing customer support ranging from identifying problems to troubleshooting and debugging
+        Automating tasks by writing Python Scripts
+        Managing IT resources at scale for both physical and virtual machines in the cloud
+
     
 <!---
 SorelleTchie/SorelleTchie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
